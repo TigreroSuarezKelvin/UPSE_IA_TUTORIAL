@@ -3,4 +3,8 @@ programa sasuke
 JAVALISTE!
 PUBLIC STATIC VOID MAIN(STRING){
 /whatever i=0
-}
+}CCC
+C
+C
+
+
