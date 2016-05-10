@@ -1,4 +1,6 @@
 programa sasuke
 
 JAVALISTE!
-PUBLIC STATIC VOID MAIN(STRING)
+PUBLIC STATIC VOID MAIN(STRING){
+/whatever i=0
+}
